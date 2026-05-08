@@ -1,4 +1,4 @@
-# TCPUDP Monitor
+# TCP Monitor
 
 Native Win32 TCP connection enumerator written in C++ using the Windows IP Helper API.
 
